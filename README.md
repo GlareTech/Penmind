@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Fagbenro Raphael
-- 👀 I’m interested in Software development
-- 📫 You can reach me on Facebook @Prince Fagbenro Raphael
+Hi i'm Raphael
+An Experienced Software Engineer | Database engineer | Product Designer | Cyber Security Expert
+<hr>
+
+📫 You can reach me on Facebook <a href="https://www.facebook.com/fagbenro.raphael">@fagbenro.raphael</a>
 
 <!---
 Penmind/Penmind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
